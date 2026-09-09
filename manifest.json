@@ -1,0 +1,7 @@
+{
+  "id": "theme-static",
+  "name": "Static",
+  "version": "0.1.0",
+  "description": "Hacker static. Noise gray + green phosphor.",
+  "main": "dist/index.js"
+}
